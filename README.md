@@ -157,7 +157,7 @@ This helps when:
 
 ---
 
-##  What You Should Aim to Learn
+##  What we Should Aim to Learn
 
 By the end of this repo, you should clearly understand:
 
