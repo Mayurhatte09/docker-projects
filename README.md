@@ -132,7 +132,7 @@ Run:
 docker exec -it <container_id> bash
 ```
 
-Now you're **inside the container** 🤯
+Now you're **inside the container** 
 
 Check:
 
@@ -143,7 +143,7 @@ env
 
 ---
 
-## 📦 Step 8: Check Logs
+##   8: Check Logs
 
 ```bash
 docker logs <container_id>
@@ -157,7 +157,7 @@ This helps when:
 
 ---
 
-## 🎯 What You Should Aim to Learn
+##  What You Should Aim to Learn
 
 By the end of this repo, you should clearly understand:
 
